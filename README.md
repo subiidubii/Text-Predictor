@@ -1,6 +1,5 @@
 # Text Predictor using Markov Chains
 
-![Screenshot of the website](ss/web.jpeg)
 
 ## Overview
 
