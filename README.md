@@ -54,10 +54,6 @@ MarkovTextPrediction/
 ├── LICENSE                     
 ```
 
-## Team Members
-
-| <a href="https://github.com/samiternity"><img src="https://github.com/samiternity.png" width="60px" style="border-radius: 50%;" alt="samiternity's profile picture"/><br />*_SAMI_*</a> | <a href="https://github.com/iqrairfan-25"><img src="https://github.com/iqrairfan-25.png" width="60px" style="border-radius: 50%;" alt="IQRA's profile picture"/><br />*_IQRA_*</a> |
-| :-------------: | :-------------: |
 
 ## Setup and Installation
 
